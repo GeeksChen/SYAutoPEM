@@ -1,2 +1,2 @@
 # SYAutoPEM
-Auto create pem file for APNS
+Automatically create pem files for APNS
