@@ -42,9 +42,9 @@ done
 # 输出文件路径
 ## 结果文件保存目录
 Base_Shell_Path=$(cd `dirname $0`; pwd)
-if [ ! -d ${Base_Shell_Path}/AutoPEM ];
+if [ ! -d ${Base_Shell_Path}/SYAutoPEM ];
 then
-mkdir -p ${Base_Shell_Path}/AutoPEM
+mkdir -p ${Base_Shell_Path}/SYAutoPEM
 fi
 
 
